@@ -1,0 +1,6 @@
+extensions:
+  grapycal_builtin:
+    name: grapycal_builtin
+  grapycal_torch:
+    name: grapycal_torch
+    

@@ -3,4 +3,5 @@ extensions:
     name: grapycal_builtin
   grapycal_torch:
     name: grapycal_torch
-    
+
+examples_url: github.com/eri24816/grapycal_examples/raw/main/
